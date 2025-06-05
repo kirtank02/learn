@@ -20,6 +20,12 @@ export const Media: CollectionConfig = {
             name: "caption",
             type: "text",
         },
+
+        //added another field
+        {
+            name: "description",
+            type: "text",
+        },
     ],
     upload: true,
 }
