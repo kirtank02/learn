@@ -15,6 +15,20 @@ export const Media: CollectionConfig = {
             type: "text",
             required: true,
         },
+        // added by harsh
+        {
+            name: "caption",
+            type: "text",
+        },
+
+        //added another field
+        {
+            name: "description",
+            type: "text",
+        },{
+            name: "image",
+            type: "upload",
+        }
     ],
     upload: true,
 }
