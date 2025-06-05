@@ -10,6 +10,9 @@ export const Media: CollectionConfig = {
         update: anyone,
     },
     fields: [
+
+        //dbwa,H<Bw
+
         //vasuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
         {
             name: "alt",
