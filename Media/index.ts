@@ -33,7 +33,8 @@ export const Media: CollectionConfig = {
         {
             name: "video",
             type: "upload",
-        }
+        },
+        
     ],
     upload: true,
 }
