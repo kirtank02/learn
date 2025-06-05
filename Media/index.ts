@@ -25,8 +25,13 @@ export const Media: CollectionConfig = {
         {
             name: "description",
             type: "text",
-        },{
+        },
+        {
             name: "image",
+            type: "upload",
+        },
+        {
+            name: "video",
             type: "upload",
         }
     ],
