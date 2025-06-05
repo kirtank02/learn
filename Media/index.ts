@@ -10,6 +10,7 @@ export const Media: CollectionConfig = {
         update: anyone,
     },
     fields: [
+        //vasuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
         {
             name: "alt",
             type: "text",
